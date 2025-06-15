@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, Input, OnInit } from '@angular/core';
 import { SharedModule } from '../../SharedModule';
 
 @Component({
@@ -7,13 +7,34 @@ import { SharedModule } from '../../SharedModule';
   templateUrl: './widgets.component.html',
   styleUrl: './widgets.component.css'
 })
-export class WidgetsComponent {
-  widgets = [
-    { label: 'Last Used', value: '29 Nov 2021' },
-    { label: 'Upcoming Confirmed', value: '10' },
-    { label: 'Upcoming Request', value: '3' },
-    { label: 'Next Booking Date', value: '29 Nov 2021' },
-    { label: 'Open (& Total) Complaints', value: '2 <small>(10)</small>' },
-    { label: 'To Be Paid', value: 'GBP 300.00' }
-  ];
+export class WidgetsComponent implements OnInit {
+  @Input() hotelDetailData: any;
+  widgets: any[] = []
+
+  ngOnInit(): void {
+    this.assignWidgets();
+  }
+
+  assignWidgets() {
+    debugger
+    this.widgets.push(
+      { label: 'Last Used', value: this.hotelDetailData['lastUsedDate'] },
+      { label: 'Upcoming Confirmed', value: this.hotelDetailData['confirmedBookings']?.toString() },
+      { label: 'Upcoming Request', value: this.hotelDetailData['onRequestBookings']?.toString() },
+      { label: 'Next Booking Date', value: this.hotelDetailData['nextBooking'] },
+      {
+        label: 'Open (& Total) Complaints',
+        value: `${this.hotelDetailData['openComplaints']} <small>(${this.hotelDetailData['totalComplaints']})</small>`
+      },
+      {
+        label: 'To Be Paid',
+        value: `GBP ${this.hotelDetailData['toBePaid']?.toLocaleString('en-GB', {
+          minimumFractionDigits: 2,
+          maximumFractionDigits: 2
+        })}`
+      }
+    );
+
+
+  }
 }

@@ -1,28 +1,36 @@
 <!-- Left Panel Content -->
-<div class="container-fluid p-2">
+<div class="container-fluid pt-5">
 
   <!-- Header Section -->
   <div class="d-flex align-items-center mb-2">
     <img [src]="HodelModel['image']" alt="Hotel Image"
          class="rounded-circle me-3"
-         style="width: 50px; height: 50px;">
+         style="width: 100px; height: 100px;">
 
     <div>
       <h5 class="mb-0">{{ HodelModel['name'] }}</h5>
-      <small class="text-primary">{{ HodelModel['group'] }}</small><br>
-      <small class="text-success">Active</small>
+      <h6 class="text-primary">{{ HodelModel['group'] }}</h6>
+      <h6 class="text-success">Active</h6>
     </div>
   </div>
 
   <!-- Icon Row -->
-  <div class="d-flex gap-3 mb-2">
-    <i class="bi bi-house-door-fill" title="Hotel"></i>
-    <i class="bi bi-wifi text-primary" title="Wi-Fi"></i>
-    <i class="bi bi-people-fill text-info" title="Guests"></i>
+<div class="d-flex gap-3 mb-2 mt-3">
+  <div class="rounded-circle ccolor d-flex align-items-center justify-content-center" style="width: 40px; height: 40px;">
+    <i class="bi bi-house-door-fill fs-5 text-dark" title="Hotel"></i>
   </div>
+  <div class="rounded-circle bg-primary d-flex align-items-center justify-content-center" style="width: 40px; height: 40px;">
+    <i class="bi bi-wifi fs-5 text-white" title="Wi-Fi"></i>
+  </div>
+  <div class="rounded-circle bg-info d-flex align-items-center justify-content-center" style="width: 40px; height: 40px;">
+    <i class="bi bi-people-fill fs-5 text-white" title="Guests"></i>
+  </div>
+</div>
+
+
 
   <!-- Address Section -->
-  <div class="mb-2 mt-3 p-2 custom-bg d-flex justify-content-between align-items-center rounded">
+  <div class="mb-2 mt-4 p-2 custom-bg d-flex justify-content-between align-items-center rounded">
     <div class="fw-bold">Address</div>
     <div>
       <i class="bi bi-pencil-fill text-secondary me-2" title="Edit"></i>
@@ -30,23 +38,23 @@
     </div>
   </div>
 
-  <div class="ps-2">
-    <p class="mb-1">
+  <div class="ps-2 mt-2">
+    <h6 class="mb-1">
       <i class="bi bi-geo-alt-fill text-danger"></i>
       {{ HodelModel['address'] }}
-    </p>
-    <p class="mb-1">
+    </h6>
+    <h6 class="mb-1">
       <i class="bi bi-envelope-fill text-info"></i>
       {{ HodelModel['email'] }}
-    </p>
-    <p class="mb-1">
+    </h6>
+    <h6 class="mb-1">
       <i class="bi bi-telephone-fill text-primary"></i>
       {{ HodelModel['phone'] }}
-    </p>
+    </h6>
   </div>
 
   <!-- Basic Info Section -->
-  <div class="mt-3 p-2 custom-bg d-flex justify-content-between align-items-center rounded">
+  <div class="mt-4 p-2 custom-bg d-flex justify-content-between align-items-center rounded">
     <div class="fw-bold">Basic Info</div>
     <div>
       <i class="bi bi-pencil-fill text-secondary me-2" title="Edit"></i>
@@ -54,7 +62,7 @@
     </div>
   </div>
 
-  <div class="ps-2">
+  <div class="ps-2 mt-2">
     <div><strong>Short Name:</strong> {{ HodelModel['shortName'] }}</div>
     <div><strong>Service ID:</strong> {{ HodelModel['serviceId'] }}</div>
     <div><strong>Service Type:</strong> {{ HodelModel['serviceType'] }}</div>

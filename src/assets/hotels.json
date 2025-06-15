@@ -2,7 +2,7 @@
   {
     "id": 1,
     "name": "The Azure Haven",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 1",
@@ -41,13 +41,13 @@
       16,
       5
     ],
-    "lat": 19.193546,
-    "lng": 73.294824
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 2,
     "name": "Golden Orchid Retreat",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 2",
@@ -86,13 +86,13 @@
       46,
       50
     ],
-    "lat": 19.369456,
-    "lng": 72.630088
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 3,
     "name": "Serenity Peaks",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 3",
@@ -131,13 +131,13 @@
       26,
       32
     ],
-    "lat": 18.626037,
-    "lng": 73.205876
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 4,
     "name": "Sunset Mirage Inn",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 4",
@@ -176,13 +176,13 @@
       9,
       49
     ],
-    "lat": 18.973548,
-    "lng": 72.329761
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 5,
     "name": "Emerald Bay Resort",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 5",
@@ -221,13 +221,13 @@
       43,
       14
     ],
-    "lat": 18.504848,
-    "lng": 73.144003
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 6,
     "name": "Crimson Dunes Lodge",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 6",
@@ -266,13 +266,13 @@
       8,
       13
     ],
-    "lat": 18.583625,
-    "lng": 72.659741
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 7,
     "name": "Lavender Springs",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 7",
@@ -311,13 +311,13 @@
       26,
       28
     ],
-    "lat": 18.893526,
-    "lng": 72.572959
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 8,
     "name": "Celestial Stay",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 8",
@@ -356,13 +356,13 @@
       22,
       6
     ],
-    "lat": 19.015648,
-    "lng": 73.268717
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 9,
     "name": "Maple Grove Hotel",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 9",
@@ -401,13 +401,13 @@
       27,
       33
     ],
-    "lat": 19.134943,
-    "lng": 72.762812
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 10,
     "name": "Opal Horizon",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 10",
@@ -446,13 +446,13 @@
       48,
       49
     ],
-    "lat": 19.193379,
-    "lng": 73.263401
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 11,
     "name": "Tranquil Trails",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 11",
@@ -491,13 +491,13 @@
       17,
       47
     ],
-    "lat": 19.273804,
-    "lng": 72.985824
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 12,
     "name": "Coral Reef Villas",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 12",
@@ -536,13 +536,13 @@
       6,
       23
     ],
-    "lat": 18.799413,
-    "lng": 73.252636
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 13,
     "name": "Jade Oasis",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 13",
@@ -581,13 +581,13 @@
       37,
       31
     ],
-    "lat": 18.977023,
-    "lng": 72.954732
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 14,
     "name": "Majestic Woods",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 14",
@@ -626,13 +626,13 @@
       10,
       11
     ],
-    "lat": 18.604898,
-    "lng": 72.489341
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 15,
     "name": "Velvet Bloom Residency",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 15",
@@ -671,13 +671,13 @@
       14,
       48
     ],
-    "lat": 19.208999,
-    "lng": 72.508521
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 16,
     "name": "The Royal Lantern",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 16",
@@ -716,13 +716,13 @@
       28,
       17
     ],
-    "lat": 18.766533,
-    "lng": 72.489217
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 17,
     "name": "Oceanic Breeze",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 17",
@@ -761,13 +761,13 @@
       31,
       37
     ],
-    "lat": 18.813049,
-    "lng": 72.416014
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 18,
     "name": "Amber Valley Resort",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 18",
@@ -806,13 +806,13 @@
       17,
       48
     ],
-    "lat": 18.521902,
-    "lng": 72.568521
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 19,
     "name": "Moonlight Mirage",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 19",
@@ -851,13 +851,13 @@
       34,
       11
     ],
-    "lat": 19.060708,
-    "lng": 72.343571
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 20,
     "name": "Sapphire Sands",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 20",
@@ -896,13 +896,13 @@
       11,
       31
     ],
-    "lat": 18.588778,
-    "lng": 72.631419
+    "lat": 17.6833,
+    "lng": 75.9167
   },
   {
     "id": 21,
     "name": "Whispering Pines",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel21.jpg",
     "address": {
       "street": "Street 21",
@@ -941,13 +941,13 @@
       50,
       43
     ],
-    "lat": 18.742891,
-    "lng": 72.659799
+    "lat": 19.9,
+    "lng": 75.32
   },
   {
     "id": 22,
     "name": "The Rustic Crown",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel22.jpg",
     "address": {
       "street": "Street 22",
@@ -986,13 +986,13 @@
       10,
       36
     ],
-    "lat": 19.014429,
-    "lng": 72.740694
+    "lat": 19.045,
+    "lng": 77.307
   },
   {
     "id": 23,
     "name": "Blissful Escapes",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel23.jpg",
     "address": {
       "street": "Street 23",
@@ -1031,13 +1031,13 @@
       37,
       24
     ],
-    "lat": 18.60917,
-    "lng": 72.74947
+    "lat": 21.469,
+    "lng": 78.2115
   },
   {
     "id": 24,
     "name": "Echo Hill Haven",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel24.jpg",
     "address": {
       "street": "Street 24",
@@ -1076,13 +1076,13 @@
       12,
       19
     ],
-    "lat": 18.642556,
-    "lng": 72.390128
+    "lat": 20.0301,
+    "lng": 79.5401
   },
   {
     "id": 25,
     "name": "Diamond View Suites",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel25.jpg",
     "address": {
       "street": "Street 25",
@@ -1121,13 +1121,13 @@
       35,
       32
     ],
-    "lat": 19.349294,
-    "lng": 72.587631
+    "lat": 20.1105,
+    "lng": 80.0036
   },
   {
     "id": 26,
     "name": "Starlight Cove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel26.jpg",
     "address": {
       "street": "Street 26",
@@ -1166,13 +1166,13 @@
       5,
       13
     ],
-    "lat": 19.361006,
-    "lng": 72.447486
+    "lat": 21.3365,
+    "lng": 76.229
   },
   {
     "id": 27,
     "name": "Misty Mountain Inn",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel27.jpg",
     "address": {
       "street": "Street 27",
@@ -1211,13 +1211,13 @@
       32,
       22
     ],
-    "lat": 19.021739,
-    "lng": 72.804146
+    "lat": 21.0464,
+    "lng": 76.934
   },
   {
     "id": 28,
     "name": "Crystal Brook",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel28.jpg",
     "address": {
       "street": "Street 28",
@@ -1256,13 +1256,13 @@
       11,
       20
     ],
-    "lat": 19.083024,
-    "lng": 72.319472
+    "lat": 19.8716,
+    "lng": 76.3853
   },
   {
     "id": 29,
     "name": "Harmony Heights",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel29.jpg",
     "address": {
       "street": "Street 29",
@@ -1301,13 +1301,13 @@
       11,
       17
     ],
-    "lat": 18.871913,
-    "lng": 72.743001
+    "lat": 17.9156,
+    "lng": 73.6551
   },
   {
     "id": 30,
     "name": "Golden Palm Suites",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel30.jpg",
     "address": {
       "street": "Street 30",
@@ -1346,13 +1346,13 @@
       34,
       23
     ],
-    "lat": 18.729286,
-    "lng": 73.189426
+    "lat": 19.0325,
+    "lng": 73.0195
   },
   {
     "id": 31,
     "name": "Ethereal Edge",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 31",
@@ -1391,13 +1391,13 @@
       15,
       41
     ],
-    "lat": 18.532546,
-    "lng": 72.482888
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 32,
     "name": "Sunrise Serenade",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 32",
@@ -1436,13 +1436,13 @@
       9,
       37
     ],
-    "lat": 18.533851,
-    "lng": 73.23697
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 33,
     "name": "Forest Flame Lodge",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 33",
@@ -1481,13 +1481,13 @@
       12,
       15
     ],
-    "lat": 18.972643,
-    "lng": 73.237232
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 34,
     "name": "The Gilded Path",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 34",
@@ -1526,13 +1526,13 @@
       25,
       43
     ],
-    "lat": 19.011546,
-    "lng": 72.547474
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 35,
     "name": "Skyline Stay",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 35",
@@ -1571,13 +1571,13 @@
       50,
       39
     ],
-    "lat": 18.778848,
-    "lng": 72.603875
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 36,
     "name": "Zenith Bloom",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 36",
@@ -1616,13 +1616,13 @@
       50,
       31
     ],
-    "lat": 19.169663,
-    "lng": 72.488952
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 37,
     "name": "Crescent Cascade",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 37",
@@ -1661,13 +1661,13 @@
       13,
       41
     ],
-    "lat": 19.035683,
-    "lng": 73.296539
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 38,
     "name": "Violet Horizon",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 38",
@@ -1706,13 +1706,13 @@
       30,
       18
     ],
-    "lat": 19.263392,
-    "lng": 72.915182
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 39,
     "name": "Willow Breeze Retreat",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 39",
@@ -1751,13 +1751,13 @@
       33,
       31
     ],
-    "lat": 18.498692,
-    "lng": 72.496341
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 40,
     "name": "Radiant Ridge",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 40",
@@ -1796,13 +1796,13 @@
       43,
       38
     ],
-    "lat": 18.976511,
-    "lng": 72.76488
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 41,
     "name": "Harbor Glow Inn",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 41",
@@ -1841,13 +1841,13 @@
       48,
       18
     ],
-    "lat": 19.277904,
-    "lng": 72.7632
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 42,
     "name": "Aurora Hollow",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 42",
@@ -1886,13 +1886,13 @@
       40,
       34
     ],
-    "lat": 19.032502,
-    "lng": 72.731324
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 43,
     "name": "Magnolia Dreams",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 43",
@@ -1931,13 +1931,13 @@
       47,
       17
     ],
-    "lat": 19.250356,
-    "lng": 72.675524
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 44,
     "name": "Enchanted Vistas",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 44",
@@ -1976,13 +1976,13 @@
       43,
       17
     ],
-    "lat": 18.627207,
-    "lng": 72.64158
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 45,
     "name": "Silver Fern Oasis",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 45",
@@ -2021,13 +2021,13 @@
       49,
       13
     ],
-    "lat": 19.034135,
-    "lng": 73.116234
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 46,
     "name": "Twilight Grove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 46",
@@ -2066,13 +2066,13 @@
       29,
       38
     ],
-    "lat": 18.513567,
-    "lng": 72.669358
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 47,
     "name": "Highland Bloom",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 47",
@@ -2111,13 +2111,13 @@
       24,
       41
     ],
-    "lat": 18.836595,
-    "lng": 72.613082
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 48,
     "name": "Blue Lagoon Villas",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 48",
@@ -2156,13 +2156,13 @@
       47,
       31
     ],
-    "lat": 18.452269,
-    "lng": 72.509787
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 49,
     "name": "The Tranquil Nest",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 49",
@@ -2201,13 +2201,13 @@
       8,
       5
     ],
-    "lat": 18.876873,
-    "lng": 72.734709
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 50,
     "name": "Opulent Orchard",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 50",
@@ -2246,13 +2246,13 @@
       39,
       22
     ],
-    "lat": 18.419713,
-    "lng": 72.589165
+    "lat": 17.6833,
+    "lng": 75.9167
   },
   {
     "id": 51,
     "name": "The Azure Haven",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel21.jpg",
     "address": {
       "street": "Street 51",
@@ -2291,13 +2291,13 @@
       50,
       14
     ],
-    "lat": 18.916479,
-    "lng": 72.434385
+    "lat": 19.9,
+    "lng": 75.32
   },
   {
     "id": 52,
     "name": "Golden Orchid Retreat",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel22.jpg",
     "address": {
       "street": "Street 52",
@@ -2336,13 +2336,13 @@
       10,
       15
     ],
-    "lat": 18.884101,
-    "lng": 72.438876
+    "lat": 19.045,
+    "lng": 77.307
   },
   {
     "id": 53,
     "name": "Serenity Peaks",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel23.jpg",
     "address": {
       "street": "Street 53",
@@ -2381,13 +2381,13 @@
       48,
       44
     ],
-    "lat": 18.731083,
-    "lng": 72.531028
+    "lat": 21.469,
+    "lng": 78.2115
   },
   {
     "id": 54,
     "name": "Sunset Mirage Inn",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel24.jpg",
     "address": {
       "street": "Street 54",
@@ -2426,13 +2426,13 @@
       31,
       33
     ],
-    "lat": 19.320245,
-    "lng": 72.406403
+    "lat": 20.0301,
+    "lng": 79.5401
   },
   {
     "id": 55,
     "name": "Emerald Bay Resort",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel25.jpg",
     "address": {
       "street": "Street 55",
@@ -2471,13 +2471,13 @@
       40,
       25
     ],
-    "lat": 18.951451,
-    "lng": 72.483647
+    "lat": 20.1105,
+    "lng": 80.0036
   },
   {
     "id": 56,
     "name": "Crimson Dunes Lodge",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel26.jpg",
     "address": {
       "street": "Street 56",
@@ -2516,13 +2516,13 @@
       35,
       45
     ],
-    "lat": 18.823507,
-    "lng": 72.990026
+    "lat": 21.3365,
+    "lng": 76.229
   },
   {
     "id": 57,
     "name": "Lavender Springs",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel27.jpg",
     "address": {
       "street": "Street 57",
@@ -2561,13 +2561,13 @@
       45,
       18
     ],
-    "lat": 18.568227,
-    "lng": 72.921366
+    "lat": 21.0464,
+    "lng": 76.934
   },
   {
     "id": 58,
     "name": "Celestial Stay",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel28.jpg",
     "address": {
       "street": "Street 58",
@@ -2606,13 +2606,13 @@
       26,
       38
     ],
-    "lat": 18.730159,
-    "lng": 72.886482
+    "lat": 19.8716,
+    "lng": 76.3853
   },
   {
     "id": 59,
     "name": "Maple Grove Hotel",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel29.jpg",
     "address": {
       "street": "Street 59",
@@ -2651,13 +2651,13 @@
       11,
       34
     ],
-    "lat": 18.544101,
-    "lng": 72.832515
+    "lat": 17.9156,
+    "lng": 73.6551
   },
   {
     "id": 60,
     "name": "Opal Horizon",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel30.jpg",
     "address": {
       "street": "Street 60",
@@ -2696,13 +2696,13 @@
       6,
       41
     ],
-    "lat": 18.78028,
-    "lng": 72.641047
+    "lat": 19.0325,
+    "lng": 73.0195
   },
   {
     "id": 61,
     "name": "Tranquil Trails",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 61",
@@ -2741,13 +2741,13 @@
       46,
       9
     ],
-    "lat": 18.406485,
-    "lng": 72.478109
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 62,
     "name": "Coral Reef Villas",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 62",
@@ -2786,13 +2786,13 @@
       27,
       45
     ],
-    "lat": 18.958207,
-    "lng": 72.452199
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 63,
     "name": "Jade Oasis",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 63",
@@ -2831,13 +2831,13 @@
       9,
       31
     ],
-    "lat": 18.75793,
-    "lng": 72.42017
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 64,
     "name": "Majestic Woods",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 64",
@@ -2876,13 +2876,13 @@
       50,
       50
     ],
-    "lat": 19.245372,
-    "lng": 73.104776
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 65,
     "name": "Velvet Bloom Residency",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 65",
@@ -2921,13 +2921,13 @@
       50,
       22
     ],
-    "lat": 19.100137,
-    "lng": 73.266735
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 66,
     "name": "The Royal Lantern",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 66",
@@ -2966,13 +2966,13 @@
       36,
       33
     ],
-    "lat": 19.224308,
-    "lng": 72.566522
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 67,
     "name": "Oceanic Breeze",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 67",
@@ -3011,13 +3011,13 @@
       35,
       31
     ],
-    "lat": 18.629222,
-    "lng": 73.19507
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 68,
     "name": "Amber Valley Resort",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 68",
@@ -3056,13 +3056,13 @@
       34,
       9
     ],
-    "lat": 18.737507,
-    "lng": 72.924242
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 69,
     "name": "Moonlight Mirage",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 69",
@@ -3101,13 +3101,13 @@
       45,
       27
     ],
-    "lat": 18.794999,
-    "lng": 73.078396
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 70,
     "name": "Sapphire Sands",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 70",
@@ -3146,13 +3146,13 @@
       39,
       48
     ],
-    "lat": 19.125803,
-    "lng": 72.670944
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 71,
     "name": "Whispering Pines",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 71",
@@ -3191,13 +3191,13 @@
       22,
       49
     ],
-    "lat": 18.507745,
-    "lng": 72.675043
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 72,
     "name": "The Rustic Crown",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 72",
@@ -3236,13 +3236,13 @@
       21,
       16
     ],
-    "lat": 18.516667,
-    "lng": 72.414024
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 73,
     "name": "Blissful Escapes",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 73",
@@ -3281,13 +3281,13 @@
       25,
       12
     ],
-    "lat": 19.280357,
-    "lng": 72.736288
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 74,
     "name": "Echo Hill Haven",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 74",
@@ -3326,13 +3326,13 @@
       46,
       14
     ],
-    "lat": 19.081091,
-    "lng": 73.270631
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 75,
     "name": "Diamond View Suites",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 75",
@@ -3371,13 +3371,13 @@
       48,
       6
     ],
-    "lat": 19.145129,
-    "lng": 72.769117
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 76,
     "name": "Starlight Cove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 76",
@@ -3416,13 +3416,13 @@
       24,
       19
     ],
-    "lat": 18.489445,
-    "lng": 72.30664
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 77,
     "name": "Misty Mountain Inn",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 77",
@@ -3461,13 +3461,13 @@
       27,
       8
     ],
-    "lat": 18.966937,
-    "lng": 72.705815
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 78,
     "name": "Crystal Brook",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 78",
@@ -3506,13 +3506,13 @@
       27,
       28
     ],
-    "lat": 18.579572,
-    "lng": 72.750935
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 79,
     "name": "Harmony Heights",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 79",
@@ -3551,13 +3551,13 @@
       20,
       33
     ],
-    "lat": 18.567287,
-    "lng": 72.957519
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 80,
     "name": "Golden Palm Suites",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 80",
@@ -3596,13 +3596,13 @@
       26,
       14
     ],
-    "lat": 19.097391,
-    "lng": 73.039264
+    "lat": 17.6833,
+    "lng": 75.9167
   },
   {
     "id": 81,
     "name": "Ethereal Edge",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel21.jpg",
     "address": {
       "street": "Street 81",
@@ -3641,13 +3641,13 @@
       50,
       37
     ],
-    "lat": 18.416013,
-    "lng": 72.705995
+    "lat": 19.9,
+    "lng": 75.32
   },
   {
     "id": 82,
     "name": "Sunrise Serenade",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel22.jpg",
     "address": {
       "street": "Street 82",
@@ -3686,13 +3686,13 @@
       17,
       37
     ],
-    "lat": 18.951141,
-    "lng": 72.975539
+    "lat": 19.045,
+    "lng": 77.307
   },
   {
     "id": 83,
     "name": "Forest Flame Lodge",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel23.jpg",
     "address": {
       "street": "Street 83",
@@ -3731,13 +3731,13 @@
       46,
       34
     ],
-    "lat": 19.122437,
-    "lng": 72.418933
+    "lat": 21.469,
+    "lng": 78.2115
   },
   {
     "id": 84,
     "name": "The Gilded Path",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel24.jpg",
     "address": {
       "street": "Street 84",
@@ -3776,13 +3776,13 @@
       26,
       26
     ],
-    "lat": 18.714433,
-    "lng": 72.600585
+    "lat": 20.0301,
+    "lng": 79.5401
   },
   {
     "id": 85,
     "name": "Skyline Stay",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel25.jpg",
     "address": {
       "street": "Street 85",
@@ -3821,13 +3821,13 @@
       19,
       21
     ],
-    "lat": 19.379414,
-    "lng": 72.587707
+    "lat": 20.1105,
+    "lng": 80.0036
   },
   {
     "id": 86,
     "name": "Zenith Bloom",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel26.jpg",
     "address": {
       "street": "Street 86",
@@ -3866,13 +3866,13 @@
       21,
       22
     ],
-    "lat": 18.6124,
-    "lng": 72.816559
+    "lat": 21.3365,
+    "lng": 76.229
   },
   {
     "id": 87,
     "name": "Crescent Cascade",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel27.jpg",
     "address": {
       "street": "Street 87",
@@ -3911,13 +3911,13 @@
       45,
       34
     ],
-    "lat": 18.447228,
-    "lng": 72.594269
+    "lat": 21.0464,
+    "lng": 76.934
   },
   {
     "id": 88,
     "name": "Violet Horizon",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel28.jpg",
     "address": {
       "street": "Street 88",
@@ -3956,13 +3956,13 @@
       7,
       16
     ],
-    "lat": 18.735635,
-    "lng": 72.612666
+    "lat": 19.8716,
+    "lng": 76.3853
   },
   {
     "id": 89,
     "name": "Willow Breeze Retreat",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel29.jpg",
     "address": {
       "street": "Street 89",
@@ -4001,13 +4001,13 @@
       11,
       35
     ],
-    "lat": 18.671659,
-    "lng": 72.385819
+    "lat": 17.9156,
+    "lng": 73.6551
   },
   {
     "id": 90,
     "name": "Radiant Ridge",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel30.jpg",
     "address": {
       "street": "Street 90",
@@ -4046,13 +4046,13 @@
       11,
       8
     ],
-    "lat": 19.221241,
-    "lng": 72.56457
+    "lat": 19.0325,
+    "lng": 73.0195
   },
   {
     "id": 91,
     "name": "Harbor Glow Inn",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 91",
@@ -4091,13 +4091,13 @@
       28,
       16
     ],
-    "lat": 18.775541,
-    "lng": 73.229572
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 92,
     "name": "Aurora Hollow",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 92",
@@ -4136,13 +4136,13 @@
       41,
       36
     ],
-    "lat": 19.058084,
-    "lng": 72.306422
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 93,
     "name": "Magnolia Dreams",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 93",
@@ -4181,13 +4181,13 @@
       12,
       7
     ],
-    "lat": 18.572686,
-    "lng": 72.325675
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 94,
     "name": "Enchanted Vistas",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 94",
@@ -4226,13 +4226,13 @@
       8,
       30
     ],
-    "lat": 18.53636,
-    "lng": 72.364112
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 95,
     "name": "Silver Fern Oasis",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 95",
@@ -4271,13 +4271,13 @@
       35,
       34
     ],
-    "lat": 18.554515,
-    "lng": 73.288051
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 96,
     "name": "Twilight Grove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 96",
@@ -4316,13 +4316,13 @@
       5,
       17
     ],
-    "lat": 19.270645,
-    "lng": 73.107885
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 97,
     "name": "Highland Bloom",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 97",
@@ -4361,13 +4361,13 @@
       28,
       45
     ],
-    "lat": 19.012862,
-    "lng": 72.435408
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 98,
     "name": "Blue Lagoon Villas",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 98",
@@ -4406,13 +4406,13 @@
       35,
       13
     ],
-    "lat": 19.045037,
-    "lng": 72.622773
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 99,
     "name": "The Tranquil Nest",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 99",
@@ -4451,13 +4451,13 @@
       26,
       35
     ],
-    "lat": 18.470609,
-    "lng": 72.860554
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 100,
     "name": "Opulent Orchard",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 100",
@@ -4496,13 +4496,13 @@
       35,
       10
     ],
-    "lat": 18.551191,
-    "lng": 72.366391
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 101,
     "name": "The Azure Haven",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 1",
@@ -4541,13 +4541,13 @@
       16,
       5
     ],
-    "lat": 19.193546,
-    "lng": 73.294824
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 102,
     "name": "Golden Orchid Retreat",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 2",
@@ -4586,13 +4586,13 @@
       46,
       50
     ],
-    "lat": 19.369456,
-    "lng": 72.630088
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 103,
     "name": "Serenity Peaks",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 3",
@@ -4631,13 +4631,13 @@
       26,
       32
     ],
-    "lat": 18.626037,
-    "lng": 73.205876
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 104,
     "name": "Sunset Mirage Inn",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 4",
@@ -4676,13 +4676,13 @@
       9,
       49
     ],
-    "lat": 18.973548,
-    "lng": 72.329761
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 105,
     "name": "Emerald Bay Resort",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 5",
@@ -4721,13 +4721,13 @@
       43,
       14
     ],
-    "lat": 18.504848,
-    "lng": 73.144003
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 106,
     "name": "Crimson Dunes Lodge",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 6",
@@ -4766,13 +4766,13 @@
       8,
       13
     ],
-    "lat": 18.583625,
-    "lng": 72.659741
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 107,
     "name": "Lavender Springs",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 7",
@@ -4811,13 +4811,13 @@
       26,
       28
     ],
-    "lat": 18.893526,
-    "lng": 72.572959
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 108,
     "name": "Celestial Stay",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 8",
@@ -4856,13 +4856,13 @@
       22,
       6
     ],
-    "lat": 19.015648,
-    "lng": 73.268717
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 109,
     "name": "Maple Grove Hotel",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 9",
@@ -4901,13 +4901,13 @@
       27,
       33
     ],
-    "lat": 19.134943,
-    "lng": 72.762812
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 110,
     "name": "Opal Horizon",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 10",
@@ -4946,13 +4946,13 @@
       48,
       49
     ],
-    "lat": 19.193379,
-    "lng": 73.263401
+    "lat": 17.6833,
+    "lng": 75.9167
   },
   {
     "id": 111,
     "name": "Tranquil Trails",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel21.jpg",
     "address": {
       "street": "Street 11",
@@ -4991,13 +4991,13 @@
       17,
       47
     ],
-    "lat": 19.273804,
-    "lng": 72.985824
+    "lat": 19.9,
+    "lng": 75.32
   },
   {
     "id": 112,
     "name": "Coral Reef Villas",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel22.jpg",
     "address": {
       "street": "Street 12",
@@ -5036,13 +5036,13 @@
       6,
       23
     ],
-    "lat": 18.799413,
-    "lng": 73.252636
+    "lat": 19.045,
+    "lng": 77.307
   },
   {
     "id": 113,
     "name": "Jade Oasis",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel23.jpg",
     "address": {
       "street": "Street 13",
@@ -5081,13 +5081,13 @@
       37,
       31
     ],
-    "lat": 18.977023,
-    "lng": 72.954732
+    "lat": 21.469,
+    "lng": 78.2115
   },
   {
     "id": 114,
     "name": "Majestic Woods",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel24.jpg",
     "address": {
       "street": "Street 14",
@@ -5126,13 +5126,13 @@
       10,
       11
     ],
-    "lat": 18.604898,
-    "lng": 72.489341
+    "lat": 20.0301,
+    "lng": 79.5401
   },
   {
     "id": 115,
     "name": "Velvet Bloom Residency",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel25.jpg",
     "address": {
       "street": "Street 15",
@@ -5171,13 +5171,13 @@
       14,
       48
     ],
-    "lat": 19.208999,
-    "lng": 72.508521
+    "lat": 20.1105,
+    "lng": 80.0036
   },
   {
     "id": 116,
     "name": "The Royal Lantern",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel26.jpg",
     "address": {
       "street": "Street 16",
@@ -5216,13 +5216,13 @@
       28,
       17
     ],
-    "lat": 18.766533,
-    "lng": 72.489217
+    "lat": 21.3365,
+    "lng": 76.229
   },
   {
     "id": 117,
     "name": "Oceanic Breeze",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel27.jpg",
     "address": {
       "street": "Street 17",
@@ -5261,13 +5261,13 @@
       31,
       37
     ],
-    "lat": 18.813049,
-    "lng": 72.416014
+    "lat": 21.0464,
+    "lng": 76.934
   },
   {
     "id": 118,
     "name": "Amber Valley Resort",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel28.jpg",
     "address": {
       "street": "Street 18",
@@ -5306,13 +5306,13 @@
       17,
       48
     ],
-    "lat": 18.521902,
-    "lng": 72.568521
+    "lat": 19.8716,
+    "lng": 76.3853
   },
   {
     "id": 119,
     "name": "Moonlight Mirage",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel29.jpg",
     "address": {
       "street": "Street 19",
@@ -5351,13 +5351,13 @@
       34,
       11
     ],
-    "lat": 19.060708,
-    "lng": 72.343571
+    "lat": 17.9156,
+    "lng": 73.6551
   },
   {
     "id": 120,
     "name": "Sapphire Sands",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel30.jpg",
     "address": {
       "street": "Street 20",
@@ -5396,13 +5396,13 @@
       11,
       31
     ],
-    "lat": 18.588778,
-    "lng": 72.631419
+    "lat": 19.0325,
+    "lng": 73.0195
   },
   {
     "id": 121,
     "name": "Whispering Pines",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 21",
@@ -5441,13 +5441,13 @@
       50,
       43
     ],
-    "lat": 18.742891,
-    "lng": 72.659799
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 122,
     "name": "The Rustic Crown",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 22",
@@ -5486,13 +5486,13 @@
       10,
       36
     ],
-    "lat": 19.014429,
-    "lng": 72.740694
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 123,
     "name": "Blissful Escapes",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 23",
@@ -5531,13 +5531,13 @@
       37,
       24
     ],
-    "lat": 18.60917,
-    "lng": 72.74947
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 124,
     "name": "Echo Hill Haven",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 24",
@@ -5576,13 +5576,13 @@
       12,
       19
     ],
-    "lat": 18.642556,
-    "lng": 72.390128
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 125,
     "name": "Diamond View Suites",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 25",
@@ -5621,13 +5621,13 @@
       35,
       32
     ],
-    "lat": 19.349294,
-    "lng": 72.587631
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 126,
     "name": "Starlight Cove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 26",
@@ -5666,13 +5666,13 @@
       5,
       13
     ],
-    "lat": 19.361006,
-    "lng": 72.447486
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 127,
     "name": "Misty Mountain Inn",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 27",
@@ -5711,13 +5711,13 @@
       32,
       22
     ],
-    "lat": 19.021739,
-    "lng": 72.804146
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 128,
     "name": "Crystal Brook",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 28",
@@ -5756,13 +5756,13 @@
       11,
       20
     ],
-    "lat": 19.083024,
-    "lng": 72.319472
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 129,
     "name": "Harmony Heights",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 29",
@@ -5801,13 +5801,13 @@
       11,
       17
     ],
-    "lat": 18.871913,
-    "lng": 72.743001
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 130,
     "name": "Golden Palm Suites",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 30",
@@ -5846,13 +5846,13 @@
       34,
       23
     ],
-    "lat": 18.729286,
-    "lng": 73.189426
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 131,
     "name": "Ethereal Edge",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 31",
@@ -5891,13 +5891,13 @@
       15,
       41
     ],
-    "lat": 18.532546,
-    "lng": 72.482888
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 132,
     "name": "Sunrise Serenade",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 32",
@@ -5936,13 +5936,13 @@
       9,
       37
     ],
-    "lat": 18.533851,
-    "lng": 73.23697
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 133,
     "name": "Forest Flame Lodge",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 33",
@@ -5981,13 +5981,13 @@
       12,
       15
     ],
-    "lat": 18.972643,
-    "lng": 73.237232
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 134,
     "name": "The Gilded Path",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 34",
@@ -6026,13 +6026,13 @@
       25,
       43
     ],
-    "lat": 19.011546,
-    "lng": 72.547474
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 135,
     "name": "Skyline Stay",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 35",
@@ -6071,13 +6071,13 @@
       50,
       39
     ],
-    "lat": 18.778848,
-    "lng": 72.603875
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 136,
     "name": "Zenith Bloom",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 36",
@@ -6116,13 +6116,13 @@
       50,
       31
     ],
-    "lat": 19.169663,
-    "lng": 72.488952
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 137,
     "name": "Crescent Cascade",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 37",
@@ -6161,13 +6161,13 @@
       13,
       41
     ],
-    "lat": 19.035683,
-    "lng": 73.296539
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 138,
     "name": "Violet Horizon",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 38",
@@ -6206,13 +6206,13 @@
       30,
       18
     ],
-    "lat": 19.263392,
-    "lng": 72.915182
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 139,
     "name": "Willow Breeze Retreat",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 39",
@@ -6251,13 +6251,13 @@
       33,
       31
     ],
-    "lat": 18.498692,
-    "lng": 72.496341
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 140,
     "name": "Radiant Ridge",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 40",
@@ -6296,13 +6296,13 @@
       43,
       38
     ],
-    "lat": 18.976511,
-    "lng": 72.76488
+    "lat": 17.6833,
+    "lng": 75.9167
   },
   {
     "id": 141,
     "name": "Harbor Glow Inn",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel21.jpg",
     "address": {
       "street": "Street 41",
@@ -6341,13 +6341,13 @@
       48,
       18
     ],
-    "lat": 19.277904,
-    "lng": 72.7632
+    "lat": 19.9,
+    "lng": 75.32
   },
   {
     "id": 142,
     "name": "Aurora Hollow",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel22.jpg",
     "address": {
       "street": "Street 42",
@@ -6386,13 +6386,13 @@
       40,
       34
     ],
-    "lat": 19.032502,
-    "lng": 72.731324
+    "lat": 19.045,
+    "lng": 77.307
   },
   {
     "id": 143,
     "name": "Magnolia Dreams",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel23.jpg",
     "address": {
       "street": "Street 43",
@@ -6431,13 +6431,13 @@
       47,
       17
     ],
-    "lat": 19.250356,
-    "lng": 72.675524
+    "lat": 21.469,
+    "lng": 78.2115
   },
   {
     "id": 144,
     "name": "Enchanted Vistas",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel24.jpg",
     "address": {
       "street": "Street 44",
@@ -6476,13 +6476,13 @@
       43,
       17
     ],
-    "lat": 18.627207,
-    "lng": 72.64158
+    "lat": 20.0301,
+    "lng": 79.5401
   },
   {
     "id": 145,
     "name": "Silver Fern Oasis",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel25.jpg",
     "address": {
       "street": "Street 45",
@@ -6521,13 +6521,13 @@
       49,
       13
     ],
-    "lat": 19.034135,
-    "lng": 73.116234
+    "lat": 20.1105,
+    "lng": 80.0036
   },
   {
     "id": 146,
     "name": "Twilight Grove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel26.jpg",
     "address": {
       "street": "Street 46",
@@ -6566,13 +6566,13 @@
       29,
       38
     ],
-    "lat": 18.513567,
-    "lng": 72.669358
+    "lat": 21.3365,
+    "lng": 76.229
   },
   {
     "id": 147,
     "name": "Highland Bloom",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel27.jpg",
     "address": {
       "street": "Street 47",
@@ -6611,13 +6611,13 @@
       24,
       41
     ],
-    "lat": 18.836595,
-    "lng": 72.613082
+    "lat": 21.0464,
+    "lng": 76.934
   },
   {
     "id": 148,
     "name": "Blue Lagoon Villas",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel28.jpg",
     "address": {
       "street": "Street 48",
@@ -6656,13 +6656,13 @@
       47,
       31
     ],
-    "lat": 18.452269,
-    "lng": 72.509787
+    "lat": 19.8716,
+    "lng": 76.3853
   },
   {
     "id": 149,
     "name": "The Tranquil Nest",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel29.jpg",
     "address": {
       "street": "Street 49",
@@ -6701,13 +6701,13 @@
       8,
       5
     ],
-    "lat": 18.876873,
-    "lng": 72.734709
+    "lat": 17.9156,
+    "lng": 73.6551
   },
   {
     "id": 150,
     "name": "Opulent Orchard",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel30.jpg",
     "address": {
       "street": "Street 50",
@@ -6746,13 +6746,13 @@
       39,
       22
     ],
-    "lat": 18.419713,
-    "lng": 72.589165
+    "lat": 19.0325,
+    "lng": 73.0195
   },
   {
     "id": 151,
     "name": "The Azure Haven",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 51",
@@ -6791,13 +6791,13 @@
       50,
       14
     ],
-    "lat": 18.916479,
-    "lng": 72.434385
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 152,
     "name": "Golden Orchid Retreat",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 52",
@@ -6836,13 +6836,13 @@
       10,
       15
     ],
-    "lat": 18.884101,
-    "lng": 72.438876
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 153,
     "name": "Serenity Peaks",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 53",
@@ -6881,13 +6881,13 @@
       48,
       44
     ],
-    "lat": 18.731083,
-    "lng": 72.531028
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 154,
     "name": "Sunset Mirage Inn",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 54",
@@ -6926,13 +6926,13 @@
       31,
       33
     ],
-    "lat": 19.320245,
-    "lng": 72.406403
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 155,
     "name": "Emerald Bay Resort",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 55",
@@ -6971,13 +6971,13 @@
       40,
       25
     ],
-    "lat": 18.951451,
-    "lng": 72.483647
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 156,
     "name": "Crimson Dunes Lodge",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 56",
@@ -7016,13 +7016,13 @@
       35,
       45
     ],
-    "lat": 18.823507,
-    "lng": 72.990026
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 157,
     "name": "Lavender Springs",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 57",
@@ -7061,13 +7061,13 @@
       45,
       18
     ],
-    "lat": 18.568227,
-    "lng": 72.921366
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 158,
     "name": "Celestial Stay",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 58",
@@ -7106,13 +7106,13 @@
       26,
       38
     ],
-    "lat": 18.730159,
-    "lng": 72.886482
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 159,
     "name": "Maple Grove Hotel",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 59",
@@ -7151,13 +7151,13 @@
       11,
       34
     ],
-    "lat": 18.544101,
-    "lng": 72.832515
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 160,
     "name": "Opal Horizon",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 60",
@@ -7196,13 +7196,13 @@
       6,
       41
     ],
-    "lat": 18.78028,
-    "lng": 72.641047
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 161,
     "name": "Tranquil Trails",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 61",
@@ -7241,13 +7241,13 @@
       46,
       9
     ],
-    "lat": 18.406485,
-    "lng": 72.478109
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 162,
     "name": "Coral Reef Villas",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 62",
@@ -7286,13 +7286,13 @@
       27,
       45
     ],
-    "lat": 18.958207,
-    "lng": 72.452199
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 163,
     "name": "Jade Oasis",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 63",
@@ -7331,13 +7331,13 @@
       9,
       31
     ],
-    "lat": 18.75793,
-    "lng": 72.42017
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 164,
     "name": "Majestic Woods",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 64",
@@ -7376,13 +7376,13 @@
       50,
       50
     ],
-    "lat": 19.245372,
-    "lng": 73.104776
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 165,
     "name": "Velvet Bloom Residency",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 65",
@@ -7421,13 +7421,13 @@
       50,
       22
     ],
-    "lat": 19.100137,
-    "lng": 73.266735
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 166,
     "name": "The Royal Lantern",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 66",
@@ -7466,13 +7466,13 @@
       36,
       33
     ],
-    "lat": 19.224308,
-    "lng": 72.566522
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 167,
     "name": "Oceanic Breeze",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 67",
@@ -7511,13 +7511,13 @@
       35,
       31
     ],
-    "lat": 18.629222,
-    "lng": 73.19507
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 168,
     "name": "Amber Valley Resort",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 68",
@@ -7556,13 +7556,13 @@
       34,
       9
     ],
-    "lat": 18.737507,
-    "lng": 72.924242
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 169,
     "name": "Moonlight Mirage",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 69",
@@ -7601,13 +7601,13 @@
       45,
       27
     ],
-    "lat": 18.794999,
-    "lng": 73.078396
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 170,
     "name": "Sapphire Sands",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 70",
@@ -7646,13 +7646,13 @@
       39,
       48
     ],
-    "lat": 19.125803,
-    "lng": 72.670944
+    "lat": 17.6833,
+    "lng": 75.9167
   },
   {
     "id": 171,
     "name": "Whispering Pines",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel21.jpg",
     "address": {
       "street": "Street 71",
@@ -7691,13 +7691,13 @@
       22,
       49
     ],
-    "lat": 18.507745,
-    "lng": 72.675043
+    "lat": 19.9,
+    "lng": 75.32
   },
   {
     "id": 172,
     "name": "The Rustic Crown",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel22.jpg",
     "address": {
       "street": "Street 72",
@@ -7736,13 +7736,13 @@
       21,
       16
     ],
-    "lat": 18.516667,
-    "lng": 72.414024
+    "lat": 19.045,
+    "lng": 77.307
   },
   {
     "id": 173,
     "name": "Blissful Escapes",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel23.jpg",
     "address": {
       "street": "Street 73",
@@ -7781,13 +7781,13 @@
       25,
       12
     ],
-    "lat": 19.280357,
-    "lng": 72.736288
+    "lat": 21.469,
+    "lng": 78.2115
   },
   {
     "id": 174,
     "name": "Echo Hill Haven",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel24.jpg",
     "address": {
       "street": "Street 74",
@@ -7826,13 +7826,13 @@
       46,
       14
     ],
-    "lat": 19.081091,
-    "lng": 73.270631
+    "lat": 20.0301,
+    "lng": 79.5401
   },
   {
     "id": 175,
     "name": "Diamond View Suites",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel25.jpg",
     "address": {
       "street": "Street 75",
@@ -7871,13 +7871,13 @@
       48,
       6
     ],
-    "lat": 19.145129,
-    "lng": 72.769117
+    "lat": 20.1105,
+    "lng": 80.0036
   },
   {
     "id": 176,
     "name": "Starlight Cove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel26.jpg",
     "address": {
       "street": "Street 76",
@@ -7916,13 +7916,13 @@
       24,
       19
     ],
-    "lat": 18.489445,
-    "lng": 72.30664
+    "lat": 21.3365,
+    "lng": 76.229
   },
   {
     "id": 177,
     "name": "Misty Mountain Inn",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel27.jpg",
     "address": {
       "street": "Street 77",
@@ -7961,13 +7961,13 @@
       27,
       8
     ],
-    "lat": 18.966937,
-    "lng": 72.705815
+    "lat": 21.0464,
+    "lng": 76.934
   },
   {
     "id": 178,
     "name": "Crystal Brook",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel28.jpg",
     "address": {
       "street": "Street 78",
@@ -8006,13 +8006,13 @@
       27,
       28
     ],
-    "lat": 18.579572,
-    "lng": 72.750935
+    "lat": 19.8716,
+    "lng": 76.3853
   },
   {
     "id": 179,
     "name": "Harmony Heights",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel29.jpg",
     "address": {
       "street": "Street 79",
@@ -8051,13 +8051,13 @@
       20,
       33
     ],
-    "lat": 18.567287,
-    "lng": 72.957519
+    "lat": 17.9156,
+    "lng": 73.6551
   },
   {
     "id": 180,
     "name": "Golden Palm Suites",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel30.jpg",
     "address": {
       "street": "Street 80",
@@ -8096,13 +8096,13 @@
       26,
       14
     ],
-    "lat": 19.097391,
-    "lng": 73.039264
+    "lat": 19.0325,
+    "lng": 73.0195
   },
   {
     "id": 181,
     "name": "Ethereal Edge",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel1.jpg",
     "address": {
       "street": "Street 81",
@@ -8141,13 +8141,13 @@
       50,
       37
     ],
-    "lat": 18.416013,
-    "lng": 72.705995
+    "lat": 19.7515,
+    "lng": 75.7139
   },
   {
     "id": 182,
     "name": "Sunrise Serenade",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel2.jpg",
     "address": {
       "street": "Street 82",
@@ -8186,13 +8186,13 @@
       17,
       37
     ],
-    "lat": 18.951141,
-    "lng": 72.975539
+    "lat": 20.387,
+    "lng": 78.1204
   },
   {
     "id": 183,
     "name": "Forest Flame Lodge",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel3.jpg",
     "address": {
       "street": "Street 83",
@@ -8231,13 +8231,13 @@
       46,
       34
     ],
-    "lat": 19.122437,
-    "lng": 72.418933
+    "lat": 21.1458,
+    "lng": 79.0882
   },
   {
     "id": 184,
     "name": "The Gilded Path",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel4.jpg",
     "address": {
       "street": "Street 84",
@@ -8276,13 +8276,13 @@
       26,
       26
     ],
-    "lat": 18.714433,
-    "lng": 72.600585
+    "lat": 19.8762,
+    "lng": 75.3433
   },
   {
     "id": 185,
     "name": "Skyline Stay",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel5.jpg",
     "address": {
       "street": "Street 85",
@@ -8321,13 +8321,13 @@
       19,
       21
     ],
-    "lat": 19.379414,
-    "lng": 72.587707
+    "lat": 20.9042,
+    "lng": 74.7749
   },
   {
     "id": 186,
     "name": "Zenith Bloom",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel6.jpg",
     "address": {
       "street": "Street 86",
@@ -8366,13 +8366,13 @@
       21,
       22
     ],
-    "lat": 18.6124,
-    "lng": 72.816559
+    "lat": 21.202,
+    "lng": 79.653
   },
   {
     "id": 187,
     "name": "Crescent Cascade",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel7.jpg",
     "address": {
       "street": "Street 87",
@@ -8411,13 +8411,13 @@
       45,
       34
     ],
-    "lat": 18.447228,
-    "lng": 72.594269
+    "lat": 17.6599,
+    "lng": 75.9064
   },
   {
     "id": 188,
     "name": "Violet Horizon",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel8.jpg",
     "address": {
       "street": "Street 88",
@@ -8456,13 +8456,13 @@
       7,
       16
     ],
-    "lat": 18.735635,
-    "lng": 72.612666
+    "lat": 19.2183,
+    "lng": 72.9781
   },
   {
     "id": 189,
     "name": "Willow Breeze Retreat",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel9.jpg",
     "address": {
       "street": "Street 89",
@@ -8501,13 +8501,13 @@
       11,
       35
     ],
-    "lat": 18.671659,
-    "lng": 72.385819
+    "lat": 18.5204,
+    "lng": 73.8567
   },
   {
     "id": 190,
     "name": "Radiant Ridge",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel10.jpg",
     "address": {
       "street": "Street 90",
@@ -8546,13 +8546,13 @@
       11,
       8
     ],
-    "lat": 19.221241,
-    "lng": 72.56457
+    "lat": 19.1665,
+    "lng": 77.314
   },
   {
     "id": 191,
     "name": "Harbor Glow Inn",
-    "group": "group 2",
+    "group": "Group 2",
     "image": "assets/images/hotel11.jpg",
     "address": {
       "street": "Street 91",
@@ -8591,13 +8591,13 @@
       28,
       16
     ],
-    "lat": 18.775541,
-    "lng": 73.229572
+    "lat": 20.011,
+    "lng": 73.7903
   },
   {
     "id": 192,
     "name": "Aurora Hollow",
-    "group": "group 3",
+    "group": "Group 3",
     "image": "assets/images/hotel12.jpg",
     "address": {
       "street": "Street 92",
@@ -8636,13 +8636,13 @@
       41,
       36
     ],
-    "lat": 19.058084,
-    "lng": 72.306422
+    "lat": 16.9944,
+    "lng": 73.3002
   },
   {
     "id": 193,
     "name": "Magnolia Dreams",
-    "group": "group 4",
+    "group": "Group 4",
     "image": "assets/images/hotel13.jpg",
     "address": {
       "street": "Street 93",
@@ -8681,13 +8681,13 @@
       12,
       7
     ],
-    "lat": 18.572686,
-    "lng": 72.325675
+    "lat": 16.705,
+    "lng": 74.2433
   },
   {
     "id": 194,
     "name": "Enchanted Vistas",
-    "group": "group 5",
+    "group": "Group 5",
     "image": "assets/images/hotel14.jpg",
     "address": {
       "street": "Street 94",
@@ -8726,13 +8726,13 @@
       8,
       30
     ],
-    "lat": 18.53636,
-    "lng": 72.364112
+    "lat": 20.9258,
+    "lng": 74.51
   },
   {
     "id": 195,
     "name": "Silver Fern Oasis",
-    "group": "group 6",
+    "group": "Group 6",
     "image": "assets/images/hotel15.jpg",
     "address": {
       "street": "Street 95",
@@ -8771,13 +8771,13 @@
       35,
       34
     ],
-    "lat": 18.554515,
-    "lng": 73.288051
+    "lat": 18.4077,
+    "lng": 76.5604
   },
   {
     "id": 196,
     "name": "Twilight Grove",
-    "group": "group 7",
+    "group": "Group 7",
     "image": "assets/images/hotel16.jpg",
     "address": {
       "street": "Street 96",
@@ -8816,13 +8816,13 @@
       5,
       17
     ],
-    "lat": 19.270645,
-    "lng": 73.107885
+    "lat": 19.6633,
+    "lng": 75.3
   },
   {
     "id": 197,
     "name": "Highland Bloom",
-    "group": "group 8",
+    "group": "Group 8",
     "image": "assets/images/hotel17.jpg",
     "address": {
       "street": "Street 97",
@@ -8861,13 +8861,13 @@
       28,
       45
     ],
-    "lat": 19.012862,
-    "lng": 72.435408
+    "lat": 18.6667,
+    "lng": 74.2333
   },
   {
     "id": 198,
     "name": "Blue Lagoon Villas",
-    "group": "group 9",
+    "group": "Group 9",
     "image": "assets/images/hotel18.jpg",
     "address": {
       "street": "Street 98",
@@ -8906,13 +8906,13 @@
       35,
       13
     ],
-    "lat": 19.045037,
-    "lng": 72.622773
+    "lat": 19.484,
+    "lng": 74.7384
   },
   {
     "id": 199,
     "name": "The Tranquil Nest",
-    "group": "group 10",
+    "group": "Group 10",
     "image": "assets/images/hotel19.jpg",
     "address": {
       "street": "Street 99",
@@ -8951,13 +8951,13 @@
       26,
       35
     ],
-    "lat": 18.470609,
-    "lng": 72.860554
+    "lat": 21.2559,
+    "lng": 74.4389
   },
   {
     "id": 200,
     "name": "Opulent Orchard",
-    "group": "group 1",
+    "group": "Group 1",
     "image": "assets/images/hotel20.jpg",
     "address": {
       "street": "Street 100",
@@ -8996,7 +8996,7 @@
       35,
       10
     ],
-    "lat": 18.551191,
-    "lng": 72.366391
+    "lat": 17.6833,
+    "lng": 75.9167
   }
 ]

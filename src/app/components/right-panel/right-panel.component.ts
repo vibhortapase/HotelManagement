@@ -1,4 +1,4 @@
-import { Component } from '@angular/core';
+import { Component, EventEmitter, Output } from '@angular/core';
 import { SharedModule } from '../../SharedModule';
 
 @Component({
@@ -8,6 +8,8 @@ import { SharedModule } from '../../SharedModule';
   styleUrl: './right-panel.component.css'
 })
 export class RightPanelComponent {
+  @Output() tabChanged = new EventEmitter<string>();
+
   tabs: string[] = [
     'Home', 'About', 'Classification', 'Products', 'Terms', 'Finance', 'Notes'
   ];
@@ -15,6 +17,7 @@ export class RightPanelComponent {
 
 
   selectTab(tab){
-    this.selectedTab = tab
+    this.selectedTab = tab;
+     this.tabChanged.emit(tab);
   }
 }

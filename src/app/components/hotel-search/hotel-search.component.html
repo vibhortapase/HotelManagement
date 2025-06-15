@@ -25,7 +25,7 @@
         </div>
 
     </div>
-    <div>
+    <div class="float-end">
         <app-pagination-control [data]="HotelDataList | filterHotels:searchText" [pageSize]="pageSize"
             (paginated)="paginatedHotels = $event">
         </app-pagination-control>

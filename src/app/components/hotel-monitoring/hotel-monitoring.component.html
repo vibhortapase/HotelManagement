@@ -1,55 +1,69 @@
-<div class="container-fluid">
-  <div class="row">
-    <!-- LEFT PANEL (Image, Address, Info) -->
-    <div class="col-md-3">
+<div class="container-fluid" style="height: 70vh;">
+  <div class="row h-100">
+    <!-- LEFT PANEL -->
+    <div class="col-md-3 h-100">
       <div class="card h-100">
-        <div class="card-body p-2">
+        <div class="card-body p-2 h-100">
           <app-left-panel [hotelDetailData]="hotelData"></app-left-panel>
         </div>
       </div>
     </div>
 
-    <!-- RIGHT MAIN PANEL -->
-    <div class="col-md-9">
-      <!-- Tabs (Hotel Details) -->
-       <div class="card mb-3 position-relative">
-    <!-- Close Button -->
-    <button type="button"
-            class=" position-absolute top-0 end-0 m-2"
-            aria-label="Close" (click)="backToSearch()">Close
-    </button>
-
-    <div class="card-body p-2" >
-      <app-right-panel></app-right-panel>
-    </div>
-  </div>
-
-      <!-- Widgets Row -->
-      <div class="card mb-3">
+    <!-- RIGHT PANEL -->
+    <div class="col-md-9 d-flex flex-column h-100">
+      <!-- Tabs (Top) -->
+      <div class="card mb-2">
+       <button type="button" class="btn-close position-absolute top-0 end-0 m-2"
+        aria-label="Close" (click)="backToSearch()"></button>
         <div class="card-body p-2">
-          <app-widgets></app-widgets>
+          <app-right-panel (tabChanged)="onTabChanged($event)"></app-right-panel>
         </div>
       </div>
 
-      <!-- Chart and Map Side-by-Side -->
-      <div class="row">
-        <!-- Bookings Chart -->
-        <div class="col-md-6">
-          <div class="card">
-            <div class="card-body p-2">
-              <app-booking-overview></app-booking-overview>
+      <!-- Widgets -->
+      <div class="card mb-2" *ngIf="tabName === 'Home'">
+        <div class="card-body p-2">
+          <app-widgets [hotelDetailData]="hotelData"></app-widgets>
+        </div>
+      </div>
+
+      <!-- CHART + MAP -->
+      <div class="row flex-grow-1" *ngIf="tabName === 'Home'">
+        <!-- Booking Overview -->
+        <div class="col-md-6 h-100">
+          <div class="card h-100">
+            <div class="card-body p-2 h-100">
+              <app-booking-overview class="h-100" [monthlyBookings]="selectedHotel"></app-booking-overview>
             </div>
           </div>
         </div>
 
         <!-- Map -->
-        <div class="col-md-6">
-          <div class="card">
-            <div class="card-body p-2">
-              <app-map></app-map>
+        <div class="col-md-6 h-100">
+          <div class="card h-100">
+            <div class="card-body p-2 h-100">
+              <app-map class="h-100 w-100" [latitude]="latitude" [longitude]="longitude"></app-map>
             </div>
           </div>
         </div>
+      </div>
+      <div *ngIf="tabName === 'About'">
+        <app-about></app-about>
+      </div>
+      <div *ngIf="tabName === 'Classification'">
+        <app-classification></app-classification>
+      </div>
+      <div *ngIf="tabName === 'Products'">
+        <app-products></app-products>
+      </div>
+      <div *ngIf="tabName === 'Terms'">
+        <app-terms></app-terms>
+      </div>
+      <div *ngIf="tabName === 'Finance'">
+        <app-finance></app-finance>
+      </div>
+      <div *ngIf="tabName === 'Notes'">
+        <app-notes></app-notes>
       </div>
     </div>
   </div>
