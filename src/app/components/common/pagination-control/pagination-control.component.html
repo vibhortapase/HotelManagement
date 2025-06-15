@@ -1,0 +1,24 @@
+<div class="text-center mt-3" *ngIf="totalPages > 1">
+    <!-- Previous -->
+    <button class="btn btn-sm  text-white btn-secondary me-2" (click)="prevPage()" [disabled]="currentPage === 1">
+        Previous
+    </button>
+
+    <!-- Pages -->
+    <ng-container *ngFor="let page of getPages()">
+        <button *ngIf="page !== '...'" class="btn btn-sm me-1" [ngClass]="{
+            'btn-primary': page === currentPage,
+            'btn-outline-primary': page !== currentPage
+          }" style="border: 1px solid #0eb0eb;" (click)="goToPage(page)">
+            {{ page }}
+        </button>
+
+        <span *ngIf="page === '...'" class="me-1 px-2">...</span>
+    </ng-container>
+
+    <!-- Next -->
+    <button class="btn btn-sm  text-white btn-secondary ms-2" (click)="nextPage()"
+        [disabled]="currentPage === totalPages">
+        Next
+    </button>
+</div>

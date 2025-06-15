@@ -1,0 +1,17 @@
+.card {
+  border: none;
+  border-top: 3px solid #007bff; /* Blue top border */
+  min-height: 80px;
+  box-shadow: 0 1px 4px rgba(0, 0, 0, 0.1);
+   background-color: #cacdd3;
+}
+
+.card .fw-bold {
+  font-size: 1rem;
+  color: #004085; /* Darker blue for text */
+}
+
+.card-body small {
+  font-size: 0.75rem;
+  color: #6c757d; /* Muted gray */
+}

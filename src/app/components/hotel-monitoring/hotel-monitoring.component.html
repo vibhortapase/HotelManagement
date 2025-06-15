@@ -1,0 +1,56 @@
+<div class="container-fluid">
+  <div class="row">
+    <!-- LEFT PANEL (Image, Address, Info) -->
+    <div class="col-md-3">
+      <div class="card h-100">
+        <div class="card-body p-2">
+          <app-left-panel [hotelDetailData]="hotelData"></app-left-panel>
+        </div>
+      </div>
+    </div>
+
+    <!-- RIGHT MAIN PANEL -->
+    <div class="col-md-9">
+      <!-- Tabs (Hotel Details) -->
+       <div class="card mb-3 position-relative">
+    <!-- Close Button -->
+    <button type="button"
+            class=" position-absolute top-0 end-0 m-2"
+            aria-label="Close" (click)="backToSearch()">Close
+    </button>
+
+    <div class="card-body p-2" >
+      <app-right-panel></app-right-panel>
+    </div>
+  </div>
+
+      <!-- Widgets Row -->
+      <div class="card mb-3">
+        <div class="card-body p-2">
+          <app-widgets></app-widgets>
+        </div>
+      </div>
+
+      <!-- Chart and Map Side-by-Side -->
+      <div class="row">
+        <!-- Bookings Chart -->
+        <div class="col-md-6">
+          <div class="card">
+            <div class="card-body p-2">
+              <app-booking-overview></app-booking-overview>
+            </div>
+          </div>
+        </div>
+
+        <!-- Map -->
+        <div class="col-md-6">
+          <div class="card">
+            <div class="card-body p-2">
+              <app-map></app-map>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</div>

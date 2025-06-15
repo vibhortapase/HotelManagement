@@ -1,0 +1,34 @@
+<div class="container-fluid">
+    <div class="card">
+        <div class="card-header p-2">
+            <div class="row">
+                <div class="col-sm-9 pt-2">
+                    <h5>Hotels</h5>
+                </div>
+                <div class=" col-sm-3 float-end">
+                    <input type="text" class="form-control" [(ngModel)]="searchText" placeholder="Search hotels..." />
+                </div>
+            </div>
+
+        </div>
+    </div>
+    <div class="row pt-2">
+        <div class="col-lg-2 col-md-4 col-sm-6 mb-3" *ngFor="let hotel of paginatedHotels | filterHotels:searchText">
+            <div class="card h-100 hover-card">
+                <img [src]="hotel.image" class="card-img-top fixed-img" alt="{{ hotel.name }}">
+                <div class="card-body p-2 text-center">
+                    <span (click)="viewHotelDetails(hotel)" class="text-primary fw-bold">
+                        {{ hotel.name }}
+                    </span>
+                </div>
+            </div>
+        </div>
+
+    </div>
+    <div>
+        <app-pagination-control [data]="HotelDataList | filterHotels:searchText" [pageSize]="pageSize"
+            (paginated)="paginatedHotels = $event">
+        </app-pagination-control>
+    </div>
+
+</div>
