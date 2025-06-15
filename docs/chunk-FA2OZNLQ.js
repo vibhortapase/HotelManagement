@@ -1,0 +1,1 @@
+import{g as o}from"./chunk-PAJSGVAR.js";import{O as e,T as r}from"./chunk-GQUFBJIP.js";var i=class t{constructor(a){this.http=a}getHotelData(){return this.http.get("assets/hotels.json")}static \u0275fac=function(n){return new(n||t)(r(o))};static \u0275prov=e({token:t,factory:t.\u0275fac,providedIn:"root"})};export{i as a};
