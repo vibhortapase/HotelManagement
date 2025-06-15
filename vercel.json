@@ -1,11 +1,7 @@
 {
+  "buildCommand": "npm run build",
   "outputDirectory": "dist/hotelmanagement",
   "rewrites": [
-    {
-      "source": "/(.*)",
-      "destination": "/index.html"
-    }
-  ],
-  "cleanUrls": true,
-  "trailingSlash": false
+    { "source": "/(.*)", "destination": "/index.html" }
+  ]
 }
