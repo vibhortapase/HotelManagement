@@ -1,0 +1,6 @@
+{
+  "outputDirectory": "dist/hotelmanagement",
+  "rewrites": [
+    { "source": "/(.*)", "destination": "/" }
+  ]
+}
