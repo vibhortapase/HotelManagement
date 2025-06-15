@@ -1,7 +1,7 @@
 import { NgModule } from '@angular/core';
 import { CommonModule } from '@angular/common';
 import { FormsModule, ReactiveFormsModule } from '@angular/forms';
-import { NgChartsModule } from 'ng2-charts';
+// import { NgChartsModule } from 'ng2-charts';
 
 @NgModule({
   declarations: [],
@@ -9,13 +9,13 @@ import { NgChartsModule } from 'ng2-charts';
     CommonModule,
     FormsModule,
     ReactiveFormsModule,
-    NgChartsModule         
+    // NgChartsModule         
   ],
   exports: [
     CommonModule,
     FormsModule,
     ReactiveFormsModule,
-    NgChartsModule
+    // NgChartsModule
   ]
 })
 export class SharedModule { }
