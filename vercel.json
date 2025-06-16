@@ -1,6 +1,6 @@
 {
   "buildCommand": "npm run build",
-  "outputDirectory": "dist/hotelmanagement/browser",
+  "outputDirectory": "dist/hotelmanagement",
   "rewrites": [
     { "source": "/(.*)", "destination": "/index.html" }
   ]
